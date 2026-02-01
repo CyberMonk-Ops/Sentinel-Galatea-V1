@@ -1,4 +1,4 @@
-# 👁️ Sentinel Galatia (v0.1)
+# 👁️ Sentinel Galatea (v0.1)
 
 > "The Universe is indifferent. She is not."
 
